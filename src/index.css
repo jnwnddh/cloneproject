@@ -1,0 +1,34 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+
+@font-face {
+  font-family: "KakaoBigBold";
+  font-style: normal;
+  font-weight: bold;
+  src: url("../src/fonts/KakaoBigBold.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: "KakaoBigRegular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("../src/fonts/KakaoBigRegular.woff2") format("woff2");
+}
+
+@font-face {
+  font-family: 'Roboto-Regular';
+  font-style: normal;
+  font-weight: 400;
+  src: url('../src/fonts/Roboto-Regular.woff') format('woff');
+}

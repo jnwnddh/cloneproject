@@ -1,0 +1,10 @@
+{
+  "member": [
+    {
+      "id": 0,
+      "emailId": 1,
+      "nickname": "json-server",
+      "password": "json-server를 배워봅시다.",
+      "passwordConfirm": "json-server를 배워봅시다."
+    }
+}
